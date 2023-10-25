@@ -1,0 +1,23 @@
+#first {
+  background-image: url(./asset/images/spiral\ bg.png),
+    url(./asset/images/nav\ image.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#imageone {
+  margin: auto;
+  width: 100%;
+  display: block;
+  height: 650px;
+  padding-bottom: 5rem;
+}
+#imagetwo {
+  display: block;
+  height: 400px;
+  width: 100%;
+}
+#best {
+  font-size: 5rem;
+}
